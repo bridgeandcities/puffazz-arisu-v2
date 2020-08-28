@@ -609,7 +609,7 @@
   )
 
   (module Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm (layer F.Cu) (tedit 5A0FD1B2) (tstamp 5F47D647)
-    (at 514.708001 23.202001)
+    (at 635.485001 -34.074999)
     (descr "SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package")
     (tags "SMD SMT crystal")
     (path /5F27F50C)
@@ -996,7 +996,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F47D56A)
-    (at 473.260001 28.195001)
+    (at 448.495001 -18.794999)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F2C12E5)
@@ -1032,7 +1032,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F47D559)
-    (at 473.260001 25.245001)
+    (at 448.495001 -21.744999)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F2BC2E1)
@@ -1068,7 +1068,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F47D548)
-    (at 473.260001 22.295001)
+    (at 448.495001 -24.694999)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F29845C)
@@ -1104,7 +1104,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F47D537)
-    (at 473.260001 19.345001)
+    (at 448.495001 -27.644999)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F277FA5)
@@ -5762,7 +5762,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5F47CA1E)
-    (at 529.727001 1.827001)
+    (at 638.185001 -64.974999)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F476C59)
@@ -5806,7 +5806,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5F47CA05)
-    (at 529.727001 -4.872999)
+    (at 638.185001 -71.674999)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F48CB3D)
@@ -5938,7 +5938,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5F47C9BA)
-    (at 529.727001 -1.522999)
+    (at 638.185001 -68.324999)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F49B165)
@@ -5982,7 +5982,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5F47C9A1)
-    (at 535.477001 -4.872999)
+    (at 643.935001 -71.674999)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F476C65)
@@ -6026,7 +6026,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5F47C988)
-    (at 535.477001 -8.222999)
+    (at 643.935001 -75.024999)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F476C4D)
@@ -6070,7 +6070,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5F47C96F)
-    (at 529.727001 -8.222999)
+    (at 638.185001 -75.024999)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F48CB31)
@@ -6422,7 +6422,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5F47C8A7)
-    (at 535.477001 -1.522999)
+    (at 643.935001 -68.324999)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F402044)
@@ -6466,7 +6466,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5F47C88E)
-    (at 529.727001 5.177001)
+    (at 638.185001 -61.624999)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F3F748E)
@@ -6554,7 +6554,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5F47C85C)
-    (at 535.477001 1.827001)
+    (at 643.935001 -64.974999)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F3E1B60)
@@ -6598,7 +6598,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5F47C843)
-    (at 529.727001 8.527001)
+    (at 638.185001 -58.274999)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F4270BC)
@@ -6818,7 +6818,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5F47C7C6)
-    (at 535.477001 5.177001)
+    (at 643.935001 -61.624999)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F3F7482)
@@ -6862,7 +6862,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5F47C7AD)
-    (at 535.477001 8.527001)
+    (at 643.935001 -58.274999)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F3E5864)
@@ -7831,7 +7831,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F47C59B)
-    (at 473.260001 13.445001)
+    (at 448.495001 -33.544999)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5F45584C)
@@ -7903,7 +7903,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F47C579)
-    (at 519.538001 22.452001)
+    (at 640.315001 -34.824999)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5F454E28)
@@ -7939,7 +7939,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F47C568)
-    (at 473.260001 16.395001)
+    (at 448.495001 -30.594999)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5F4549A4)
@@ -7975,7 +7975,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F47C557)
-    (at 514.288001 26.902001)
+    (at 635.065001 -30.374999)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5F4543CF)

@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:puffazz-arisu-v2-cache
 EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
@@ -1023,7 +1024,7 @@ U 1 1 5F2A324F
 P 13050 3000
 F 0 "MX_BCKSP1" H 13083 3223 60  0000 C CNN
 F 1 "MX-NoLED" H 13083 3149 20  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB" H 12425 2975 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB" H 12425 2975 60  0001 C CNN
 F 3 "" H 12425 2975 60  0001 C CNN
 	1    13050 3000
 	1    0    0    -1  
@@ -1858,7 +1859,7 @@ U 1 1 5F4A5085
 P 6000 3800
 F 0 "MX_CAPS2" H 6033 4023 60  0000 C CNN
 F 1 "MX-NoLED" H 6033 3949 20  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB" H 5375 3775 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5375 3775 60  0001 C CNN
 F 3 "" H 5375 3775 60  0001 C CNN
 	1    6000 3800
 	1    0    0    -1  
@@ -3224,7 +3225,7 @@ Connection ~ 2900 4650
 Wire Wire Line
 	2900 4650 3350 4650
 $Comp
-L MCU_Microchip_ATmega:ATmega32U4-AU U1
+L puffazz-arisu-v2-rescue:ATmega32U4-AU-MCU_Microchip_ATmega U1
 U 1 1 5F269BC8
 P 2900 2850
 F 0 "U1" H 2900 961 50  0000 C CNN
