@@ -428,12 +428,12 @@ Wire Wire Line
 $Comp
 L LED:SK6812 D69
 U 1 1 5F3782C0
-P 5800 8700
-F 0 "D69" H 6144 8746 50  0000 L CNN
-F 1 "SK6812" H 6144 8655 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 5850 8400 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 5900 8325 50  0001 L TNN
-	1    5800 8700
+P 7700 10300
+F 0 "D69" H 8044 10346 50  0000 L CNN
+F 1 "SK6812" H 8044 10255 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 7750 10000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 7800 9925 50  0001 L TNN
+	1    7700 10300
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -580,8 +580,6 @@ F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6100 8700 6450 8700
-Wire Wire Line
 	7050 8700 7400 8700
 Wire Wire Line
 	8000 8700 8350 8700
@@ -613,7 +611,6 @@ Wire Wire Line
 	5500 9900 5500 10300
 Wire Wire Line
 	6100 10300 6450 10300
-NoConn ~ 7050 10300
 $Comp
 L power:+5V #PWR0115
 U 1 1 5F3E78F2
@@ -628,8 +625,6 @@ $EndComp
 Wire Wire Line
 	11050 8400 10550 8400
 Connection ~ 6750 8400
-Wire Wire Line
-	6750 8400 5800 8400
 Connection ~ 7700 8400
 Wire Wire Line
 	7700 8400 6750 8400
@@ -643,12 +638,9 @@ Connection ~ 10550 8400
 Wire Wire Line
 	10550 8400 9600 8400
 Wire Wire Line
-	5800 8400 5400 8400
-Wire Wire Line
 	5400 8400 5400 9200
 Wire Wire Line
 	5400 9200 5800 9200
-Connection ~ 5800 8400
 Connection ~ 5800 9200
 Wire Wire Line
 	5800 9200 6750 9200
@@ -669,18 +661,15 @@ Wire Wire Line
 Wire Wire Line
 	11050 9200 11050 10000
 Wire Wire Line
-	11050 10000 6750 10000
+	11050 10000 7700 10000
 Connection ~ 10550 9200
 Connection ~ 6750 10000
 Wire Wire Line
 	6750 10000 5800 10000
 Wire Wire Line
-	5800 9000 6750 9000
-Wire Wire Line
 	11150 9000 11150 9800
 Wire Wire Line
 	11150 9800 10550 9800
-Connection ~ 6750 9000
 Wire Wire Line
 	6750 9000 7700 9000
 Connection ~ 7700 9000
@@ -723,16 +712,14 @@ Wire Wire Line
 $Comp
 L power:GND #PWR0116
 U 1 1 5F400838
-P 7150 10600
-F 0 "#PWR0116" H 7150 10350 50  0001 C CNN
-F 1 "GND" H 7155 10427 50  0000 C CNN
-F 2 "" H 7150 10600 50  0001 C CNN
-F 3 "" H 7150 10600 50  0001 C CNN
-	1    7150 10600
+P 8100 10600
+F 0 "#PWR0116" H 8100 10350 50  0001 C CNN
+F 1 "GND" H 8105 10427 50  0000 C CNN
+F 2 "" H 8100 10600 50  0001 C CNN
+F 3 "" H 8100 10600 50  0001 C CNN
+	1    8100 10600
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	7150 10600 6750 10600
 Connection ~ 6750 10600
 Text Notes 4700 7700 0    100  ~ 0
 LEDs
@@ -3274,6 +3261,19 @@ $EndComp
 Wire Wire Line
 	11250 4250 13450 4250
 Wire Wire Line
-	10800 4150 12150 4150
-Connection ~ 10800 4150
+	7700 10300 7700 10250
+Connection ~ 7700 10000
+Wire Wire Line
+	7700 10000 6750 10000
+Wire Wire Line
+	5400 8400 6750 8400
+Wire Wire Line
+	6750 10600 7700 10600
+Connection ~ 7700 10600
+Wire Wire Line
+	7700 10600 8100 10600
+Wire Wire Line
+	7400 10300 7050 10300
+NoConn ~ 8000 10300
+NoConn ~ 6450 8700
 $EndSCHEMATC
