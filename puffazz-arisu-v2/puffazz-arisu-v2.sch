@@ -3107,41 +3107,41 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega
 	1    2900 2850
 	1    0    0    -1  
 $EndComp
-Text GLabel 3600 1350 2    50   Input ~ 0
+Text GLabel 3500 3750 2    50   Input ~ 0
 COL0
-Text GLabel 3600 1450 2    50   Input ~ 0
+Text GLabel 3500 3850 2    50   Input ~ 0
 COL1
-Text GLabel 3600 1550 2    50   Input ~ 0
+Text GLabel 3500 3950 2    50   Input ~ 0
 COL2
-Text GLabel 3600 1650 2    50   Input ~ 0
+Text GLabel 3500 3050 2    50   Input ~ 0
 COL3
-Text GLabel 3600 3750 2    50   Input ~ 0
+Text GLabel 3500 2550 2    50   Input ~ 0
 COL7
-Text GLabel 3600 3850 2    50   Input ~ 0
+Text GLabel 3500 2650 2    50   Input ~ 0
 COL6
-Text GLabel 3600 3950 2    50   Input ~ 0
+Text GLabel 3500 2750 2    50   Input ~ 0
 COL5
-Text GLabel 3600 4050 2    50   Input ~ 0
+Text GLabel 3500 2850 2    50   Input ~ 0
 COL4
-Text GLabel 3600 4150 2    50   Input ~ 0
+Text GLabel 3500 3150 2    50   Input ~ 0
 ROW0
-Text GLabel 3600 4250 2    50   Input ~ 0
+Text GLabel 3500 3250 2    50   Input ~ 0
 ROW1
-Text GLabel 3600 2350 2    50   Input ~ 0
+Text GLabel 3500 1750 2    50   Input ~ 0
 ROW2
-Text GLabel 3600 2250 2    50   Input ~ 0
+Text GLabel 3500 1850 2    50   Input ~ 0
 ROW3
-Text GLabel 3600 1950 2    50   Input ~ 0
+Text GLabel 3500 1950 2    50   Input ~ 0
 ROW4
-Text GLabel 3600 1850 2    50   Input ~ 0
+Text GLabel 3500 2250 2    50   Input ~ 0
 ROW5
-Text GLabel 3600 1750 2    50   Input ~ 0
+Text GLabel 3500 2350 2    50   Input ~ 0
 ROW6
-Text GLabel 3600 3250 2    50   Input ~ 0
+Text GLabel 3500 4250 2    50   Input ~ 0
 ROW7
-Text GLabel 3600 3150 2    50   Input ~ 0
+Text GLabel 3500 4150 2    50   Input ~ 0
 ROW8
-Text GLabel 3600 2950 2    50   Input ~ 0
+Text GLabel 3500 4050 2    50   Input ~ 0
 ROW9
 Wire Wire Line
 	12750 2150 12750 1850
