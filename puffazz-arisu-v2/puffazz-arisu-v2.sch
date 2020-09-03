@@ -3113,7 +3113,7 @@ Text GLabel 3500 3850 2    50   Input ~ 0
 COL1
 Text GLabel 3500 3950 2    50   Input ~ 0
 COL2
-Text GLabel 3500 3050 2    50   Input ~ 0
+Text GLabel 3500 3250 2    50   Input ~ 0
 COL3
 Text GLabel 3500 2550 2    50   Input ~ 0
 COL7
@@ -3123,9 +3123,9 @@ Text GLabel 3500 2750 2    50   Input ~ 0
 COL5
 Text GLabel 3500 2850 2    50   Input ~ 0
 COL4
-Text GLabel 3500 3150 2    50   Input ~ 0
+Text GLabel 3500 2950 2    50   Input ~ 0
 ROW0
-Text GLabel 3500 3250 2    50   Input ~ 0
+Text GLabel 3500 3150 2    50   Input ~ 0
 ROW1
 Text GLabel 3500 1750 2    50   Input ~ 0
 ROW2
@@ -3259,7 +3259,7 @@ F 3 "~" H 1450 3400 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	11250 4250 13450 4250
+	11250 4250 12150 4250
 Wire Wire Line
 	7700 10300 7700 10250
 Connection ~ 7700 10000
@@ -3275,5 +3275,19 @@ Wire Wire Line
 Wire Wire Line
 	7400 10300 7050 10300
 NoConn ~ 8000 10300
-NoConn ~ 6450 8700
+Wire Wire Line
+	12150 4150 12150 4250
+Connection ~ 12150 4250
+Wire Wire Line
+	12150 4250 13450 4250
+Text GLabel 6450 8700 0    50   Input ~ 0
+RGBLED
+Text GLabel 3500 2050 2    50   Input ~ 0
+RGBLED
+NoConn ~ 3500 1350
+NoConn ~ 3500 1450
+NoConn ~ 3500 1550
+NoConn ~ 3500 1650
+NoConn ~ 3500 3050
+NoConn ~ 3500 3550
 $EndSCHEMATC
