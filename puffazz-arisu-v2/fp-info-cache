@@ -1,4 +1,4 @@
-16315397855604612
+16324993846199615
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -72170,6 +72170,13 @@ HRO-TYPE-C-31-M-13
 16
 13
 Type-C
+SW_Cherry_MX_2.75u_PCB_Flipped
+Cherry MX keyswitch, 2.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.75u PCB
+0
+2
+2
+Type-C
 USB_C_GCT_USB4085
 
 
@@ -72197,6 +72204,41 @@ Wurth-632723300011-MaximumExtensionMount
 0
 32
 27
+Type-C
+silkscreen v1
+
+
+0
+0
+0
+Type-C
+silkscreen v2
+
+
+0
+0
+0
+Type-C
+silkscreen v3
+
+
+0
+0
+0
+Type-C
+silkscreen v4
+
+
+0
+0
+0
+Type-C
+silkscreen v5
+
+
+0
+0
+0
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
