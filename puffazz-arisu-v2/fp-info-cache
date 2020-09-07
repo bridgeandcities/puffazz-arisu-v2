@@ -1,4 +1,4 @@
-16324993846199615
+16328192599076482
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -72169,6 +72169,20 @@ HRO-TYPE-C-31-M-13
 0
 16
 13
+Type-C
+SW_Cherry_MX_2.00u_PCB_Flipped
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+2
+2
+Type-C
+SW_Cherry_MX_2.25u_PCB_Flipped
+Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.25u PCB
+0
+2
+2
 Type-C
 SW_Cherry_MX_2.75u_PCB_Flipped
 Cherry MX keyswitch, 2.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
